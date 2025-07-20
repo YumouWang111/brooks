@@ -1,0 +1,25 @@
+---
+title: "Research"
+description: |
+  <i>This is about my research.</i>
+home: true
+listing:
+  - id: projects
+    contents: "/*/index.qmd"
+    sort:
+      - "feature"
+      - "date desc"
+    template: ../static/html/research/listing.ejs
+    categories: True  
+title-block-banner: "#fff"
+page-layout: full
+toc: true 
+toc-location: right
+toc-title: Contents
+---
+
+:::{#projects}
+
+:::
+
+<!-- {{< ai blank-just-to-add-ai-dependency-to-this-page >}} -->

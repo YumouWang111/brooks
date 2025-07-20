@@ -1,0 +1,56 @@
+---
+title: "Housing Policy and Housing Return: Evidence from Chinese Housing Market"
+# date: 2025-07
+date-modified: 2025-07
+authors:
+  - name: Siu Kei Wong
+    orcid: 0000-0003-2590-2556
+    url: https://scholar.google.com/citations?user=KFCPPikAAAAJ&hl=en
+    affiliation: 
+      name: HKU
+      url: https://www.arch.hku.hk/programmes_/rec/
+    email: kwongb@hku.hk
+  - name: Yumou Wang
+    orcid: https://orcid.org/my-orcid?orcid=0000-0002-8230-2736
+    url: https://scholar.google.com/citations?user=AcIMYDMAAAAJ
+    affiliation: 
+      name: HKU
+      url: https://www.arch.hku.hk/programmes_/rec/
+    email: yumwang@connect.hku.hk
+journals:
+  - name: Real Estate Economics
+    url: 
+categories:
+  - Housing Policy
+  - Text Mining
+image: img/policy_index.png
+status: R&R
+feature: True
+# pub-info:
+#   links:
+#     - name: Latest WP
+#       url: https://arxiv.org/abs/2403.19563
+#       icon: ai ai-arxiv
+#     - name: Package (unitdid)
+#       url: https://github.com/kazuyanagimoto/unitdid
+#       icon: fa-brands fa-github
+# pub-status: 
+#   status: Writing
+#   class: warning
+#   icon: fa-solid fa-pencil
+lightbox: True
+---
+
+## Abstract
+
+This paper examines the relationship between housing policy interventions and market returns in China with a novel policy index. Using natural language processing techniques, we construct a sentence-level policy index based on government policy documents from 2008 to 2024. The policy index identifies three loosening periods and two tightening periods in Chinese housing market. We find that the policy index is associated with higher long-term housing returns. The mechanism analysis shows that policy effects on housing returns are transmitted primarily through supply channels (43%) and demand channels (15%). Notably, our findings reveal that only loosening measures are significantly associated with housing returns. Granger causality tests uncover an asymmetric temporal relationship: while housing returns Granger-cause policy changes across all time horizons, policy interventions demonstrate causality only for long-term housing returns, suggesting a delayed impact of policy implementation on market outcomes. 
+
+## Important table & figure
+
+::: {layout-ncol="2"}
+
+![FIGURE 1 The policy index spanning from January 2000 to March 2024](img/policy_index.png)
+
+:::
+
+<!-- {{< ai blank-just-to-add-ai-dependency-to-this-page >}} -->

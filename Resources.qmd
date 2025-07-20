@@ -1,0 +1,28 @@
+---
+title: "Resources"
+description: |
+  <i>Some links seem to be useful.</i>
+editor: 
+  markdown: 
+    wrap: 72
+page-layout: full   # 使用全屏布局（无侧边栏）
+title-block-banner: true # 启用标题横幅样式
+---
+
+
+
+### Monetary Policy
+
+  - [The Prople's Bank of China (中国人民银行)](http://www.pbc.gov.cn/rmyh/105145/index.html)
+  - [National Interbank Funding Center (全国银行间同业拆借中心)](https://www.chinamoney.org.cn/)
+  - [China Bond (中国债券信息网)](https://yield.chinabond.com.cn/)  
+
+
+### Stata
+
+  - [Lianxianghui (连享会)](https://www.lianxh.cn/blogs/all.html)
+
+
+### Python
+
+  - [Liaoxuefeng](https://liaoxuefeng.com/books/python/introduction/index.html)  

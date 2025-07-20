@@ -1,0 +1,13 @@
+[
+  {
+    "listing": "/software/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/policy_index/index.html",
+      "/research/market_power/index.html"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+- title: academic-typst
+  description: A Quarto + Typst Template for Academic Manuscripts
+  image: https://github.com/kazuyanagimoto/quarto-academic-typst/blob/main/img/thumbnail.svg?raw=true
+  url: https://github.com/kazuyanagimoto/quarto-academic-typst
+  links:
+  - name: GitHub
+    url: https://github.com/kazuyanagimoto/quarto-academic-typst
+    icon: fa-brands fa-github
+  - name: Demo Manuscript
+    url: http://kazuyanagimoto.com/quarto-academic-typst/template-full.pdf
+    icon: fa-solid fa-file-pdf
+  - name: Demo Code
+    url: https://github.com/kazuyanagimoto/quarto-academic-typst/blob/main/template-full.qmd
+    icon: fa-brands fa-github
+- title: awesomecv-typst
+  description: A Quarto + Typst Template for Awesome CV
+  url: https://github.com/kazuyanagimoto/quarto-awesomecv-typst
+  image: https://github.com/kazuyanagimoto/quarto-awesomecv-typst/blob/main/assets/img/thumbnail.png?raw=true
+  links:
+  - name: GitHub
+    url: https://github.com/kazuyanagimoto/quarto-awesomecv-typst
+    icon: fa-brands fa-github
+  - name: Demo CV
+    url: https://kazuyanagimoto.com/typstcv/vignettes/awesomecv/awesomecv.pdf
+    icon: fa-solid fa-file-pdf
+  - name: Demo Code
+    url: https://github.com/kazuyanagimoto/typstcv/blob/main/vignettes/awesomecv/awesomecv.qmd
+    icon: fa-brands fa-github
+- title: clean-typst
+  description: A Minimalistic Presentation Theme for Quarto + Typst by Touying
+  url: https://github.com/kazuyanagimoto/quarto-clean-typst
+  image: https://github.com/kazuyanagimoto/quarto-clean-typst/blob/main/static/img/thumbnail.svg?raw=true
+  links:
+  - name: GitHub
+    url: https://github.com/kazuyanagimoto/quarto-clean-typst
+    icon: fa-brands fa-github
+  - name: Demo Slides
+    url: https://kazuyanagimoto.com/quarto-clean-typst/template-full.pdf
+    icon: fa-solid fa-file-pdf
+  - name: Demo Code
+    url: https://github.com/kazuyanagimoto/quarto-clean-typst/blob/main/template-full.qmd
+    icon: fa-brands fa-github
+  - name: Typst Universe
+    url: https://typst.app/universe/package/touying-quarto-clean/
