@@ -1,5 +1,5 @@
 ---
-title: "Housing Policy and Housing Return: Evidence from Chinese Housing Market"
+title: "Market Concentration, Market Power, and Firm Growth of Construction Companies"
 date: 2021-09-16
 # date-modified: 2021-09-16
 authors:
