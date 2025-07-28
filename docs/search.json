@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I am a PhD Candidate in the Department of REC at HKU.  My research interests include REITs, government behaviors, and machine learning.\nI enjoy playing video games, watching movies, listening to music, reading novels, and hiking."
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching assistant\n\nRECO3038 Real Estate Investment and Finance (Undergraduate)\nRECO6069 Real Estate Investment (Postgraduate)"
+  },
+  {
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Monetary Policy\n\nThe Prople’s Bank of China (中国人民银行)\nNational Interbank Funding Center (全国银行间同业拆借中心)\nChina Bond (中国债券信息网)\n\n\n\nStata\n\nLianxianghui (连享会)\n\n\n\nPython\n\nLiaoxuefeng"
+  },
+  {
+    "objectID": "research/market_power/index.html",
+    "href": "research/market_power/index.html",
+    "title": "Market Concentration, Market Power, and Firm Growth of Construction Companies",
+    "section": "",
+    "text": "China’s economy has been transitioning from a phase of rapid growth to a stage of high-quality development that is called “new normal” and China’s construction industry plays a pillar part in China’s economy. Nevertheless, the industry is large but not strong. This labour-intensive industry suffers from low concentration and fierce competition. Based on the organizational theory, which shows how market structure contributes to the growth of industry, this study aims to explore the impact of market concentration and market power on firm’s turnover and profit. Using statistical analysis and panel data of 37 China’s construction companies from 2009 to 2018, this study proposes and calculates the market concentration (CR) and the market power (MP) of China’s companies. Then the augmented Cobb–Douglas production function and OLS regression are used to explore the growth factors of China’s construction industry. The results show that the market concentration increases both the turnover and profit of construction firms. However, market power increases the profit of construction firms while decreases the turnover. In addition, the companies that are China’s non-state-owned have overseas income or are civil engineering and construction have more advantages in the growth of the construction industry in “quality”. This study provides a reference to understand the structures of the construction industries and the structural effect on the growth of different types of firms and could be replicated in other countries with the similar situation."
+  },
+  {
+    "objectID": "research/market_power/index.html#abstract",
+    "href": "research/market_power/index.html#abstract",
+    "title": "Market Concentration, Market Power, and Firm Growth of Construction Companies",
+    "section": "",
+    "text": "China’s economy has been transitioning from a phase of rapid growth to a stage of high-quality development that is called “new normal” and China’s construction industry plays a pillar part in China’s economy. Nevertheless, the industry is large but not strong. This labour-intensive industry suffers from low concentration and fierce competition. Based on the organizational theory, which shows how market structure contributes to the growth of industry, this study aims to explore the impact of market concentration and market power on firm’s turnover and profit. Using statistical analysis and panel data of 37 China’s construction companies from 2009 to 2018, this study proposes and calculates the market concentration (CR) and the market power (MP) of China’s companies. Then the augmented Cobb–Douglas production function and OLS regression are used to explore the growth factors of China’s construction industry. The results show that the market concentration increases both the turnover and profit of construction firms. However, market power increases the profit of construction firms while decreases the turnover. In addition, the companies that are China’s non-state-owned have overseas income or are civil engineering and construction have more advantages in the growth of the construction industry in “quality”. This study provides a reference to understand the structures of the construction industries and the structural effect on the growth of different types of firms and could be replicated in other countries with the similar situation."
+  },
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Yumou Wang (王予谋)",
+    "section": "",
+    "text": "This is my personal page."
+  },
+  {
+    "objectID": "readme.html#hi",
+    "href": "readme.html#hi",
+    "title": "Yumou Wang (王予谋)",
+    "section": "",
+    "text": "This is my personal page."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Yumou Wang (王予谋)"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "R&R\n            \n            \n                \n                    \n                        \n                            \n                                Housing Policy and Housing Return: Evidence from Chinese Housing Market\n                            \n                        \n\n                            \n                            \n                                \n                                    , \n                                    \n                                        \n                                            Real Estate Economics\n                                        \n                                        \n                                    \n                                \n                            \n                        \n\n                        \n                            \n                        \n                        \n                            \n                            \n                            \n                                with\n                                \n                                    \n                                        Siu Kei Wong\n                                    \n                                    \n                                \n                            \n                        \n                        \n                        \n                            \n                        \n                    \n                    \n                        \n                            \n                        \n                    \n                \n            \n                    \n    \n                    \n    \n                    \n    \n        \n            \n                Publication\n            \n            \n                \n                    \n                        \n                            \n                                Market Concentration, Market Power, and Firm Growth of Construction Companies\n                            \n                        \n\n                            \n                            \n                                \n                                    , \n                                    \n                                        \n                                            \n                                                Advances in Civil Engineering\n                                            \n                                        \n                                        \n                                    \n                                \n                            \n                        \n\n                        \n                            \n                        \n                        \n                            \n                            \n                            \n                                with\n                                \n                                    \n                                        Shilong Li\n                                    \n                                    \n                                \n                            \n                        \n                        \n                        \n                            \n                        \n                    \n                    \n                \n            \n                    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "research/policy_index/index.html",
+    "href": "research/policy_index/index.html",
+    "title": "Housing Policy and Housing Return: Evidence from Chinese Housing Market",
+    "section": "",
+    "text": "This paper examines the relationship between housing policy interventions and market returns in China with a novel policy index. Using natural language processing techniques, we construct a sentence-level policy index based on government policy documents from 2008 to 2024. The policy index identifies three loosening periods and two tightening periods in Chinese housing market. We find that the policy index is associated with higher long-term housing returns. The mechanism analysis shows that policy effects on housing returns are transmitted primarily through supply channels (43%) and demand channels (15%). Notably, our findings reveal that only loosening measures are significantly associated with housing returns. Granger causality tests uncover an asymmetric temporal relationship: while housing returns Granger-cause policy changes across all time horizons, policy interventions demonstrate causality only for long-term housing returns, suggesting a delayed impact of policy implementation on market outcomes."
+  },
+  {
+    "objectID": "research/policy_index/index.html#abstract",
+    "href": "research/policy_index/index.html#abstract",
+    "title": "Housing Policy and Housing Return: Evidence from Chinese Housing Market",
+    "section": "",
+    "text": "This paper examines the relationship between housing policy interventions and market returns in China with a novel policy index. Using natural language processing techniques, we construct a sentence-level policy index based on government policy documents from 2008 to 2024. The policy index identifies three loosening periods and two tightening periods in Chinese housing market. We find that the policy index is associated with higher long-term housing returns. The mechanism analysis shows that policy effects on housing returns are transmitted primarily through supply channels (43%) and demand channels (15%). Notably, our findings reveal that only loosening measures are significantly associated with housing returns. Granger causality tests uncover an asymmetric temporal relationship: while housing returns Granger-cause policy changes across all time horizons, policy interventions demonstrate causality only for long-term housing returns, suggesting a delayed impact of policy implementation on market outcomes."
+  },
+  {
+    "objectID": "research/policy_index/index.html#important-table-figure",
+    "href": "research/policy_index/index.html#important-table-figure",
+    "title": "Housing Policy and Housing Return: Evidence from Chinese Housing Market",
+    "section": "Important table & figure",
+    "text": "Important table & figure\n\n\n\n\n\n\nFIGURE 1 The policy index spanning from January 2000 to March 2024"
+  },
+  {
+    "objectID": "software/index.html",
+    "href": "software/index.html",
+    "title": "Software",
+    "section": "",
+    "text": "unitdid \n                \n            \n            Providing functions for Unit-level Difference-in-Differences (Arkhangelsky, Yanagimot, and Zohar, 2024)\n            \n                \n                \n                    \n                    \n                    \n                         Documentation\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub\n                    \n                \n                \n            \n        \n        \n    \n    \n    \n        \n            \n                \n                quartomonothemer \n                \n            \n            Makes a Monotone Theme for Quarto Revealjs, {ggplot2}, and {gt}.\n            \n                \n                \n                    \n                    \n                    \n                         Documentation\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub\n                    \n                \n                \n            \n        \n        \n    \n    \n    \n        \n            \n                \n                typstcv \n                \n            \n            Provides supporting functions for Quarto + Typst CV\n            \n                \n                \n                    \n                    \n                    \n                         Documentation\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub\n                    \n                \n                \n            \n        \n        \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "software/index.html#r",
+    "href": "software/index.html#r",
+    "title": "Software",
+    "section": "",
+    "text": "unitdid \n                \n            \n            Providing functions for Unit-level Difference-in-Differences (Arkhangelsky, Yanagimot, and Zohar, 2024)\n            \n                \n                \n                    \n                    \n                    \n                         Documentation\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub\n                    \n                \n                \n            \n        \n        \n    \n    \n    \n        \n            \n                \n                quartomonothemer \n                \n            \n            Makes a Monotone Theme for Quarto Revealjs, {ggplot2}, and {gt}.\n            \n                \n                \n                    \n                    \n                    \n                         Documentation\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub\n                    \n                \n                \n            \n        \n        \n    \n    \n    \n        \n            \n                \n                typstcv \n                \n            \n            Provides supporting functions for Quarto + Typst CV\n            \n                \n                \n                    \n                    \n                    \n                         Documentation\n                    \n                \n                \n                \n                    \n                    \n                    \n                         GitHub\n                    \n                \n                \n            \n        \n        \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "software/index.html#quarto",
+    "href": "software/index.html#quarto",
+    "title": "Software",
+    "section": "Quarto",
+    "text": "Quarto\n\n\n    \n    \n        \n            \n                \n                academic-typst \n                \n            \n            A Quarto + Typst Template for Academic Manuscripts\n            \n                \n                \n                    \n                    \n                    \n                         GitHub\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Demo Manuscript\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Demo Code\n                    \n                \n                \n            \n        \n        \n            \n                \n                    \n                        \n                    \n                \n            \n        \n    \n    \n    \n        \n            \n                \n                awesomecv-typst \n                \n            \n            A Quarto + Typst Template for Awesome CV\n            \n                \n                \n                    \n                    \n                    \n                         GitHub\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Demo CV\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Demo Code\n                    \n                \n                \n            \n        \n        \n            \n                \n                    \n                        \n                    \n                \n            \n        \n    \n    \n    \n        \n            \n                \n                clean-typst \n                \n            \n            A Minimalistic Presentation Theme for Quarto + Typst by Touying\n            \n                \n                \n                    \n                    \n                    \n                         GitHub\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Demo Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Demo Code\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Typst Universe\n                    \n                \n                \n            \n        \n        \n            \n                \n                    \n                        \n                    \n                \n            \n        \n    \n    \n\nNo matching items"
+  }
+]
