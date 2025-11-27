@@ -2,15 +2,57 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Yumou Wang",
+    "title": "Home",
     "section": "",
-    "text": "arlionn@163.com\n  \n  \n    \n     arlionn\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     ORCID\n  \n  \n    \n     Bilibili\n  \n  \n    \n"
+    "text": "PhD candidate at HKU REC. Research interests: REITs, government behaviors, machine learning. Personal links to mail, Google Scholar, LinkedIn, ORCID, Bilibili, CV, hobbies."
   },
   {
-    "objectID": "Teaching.html#科研项目",
-    "href": "Teaching.html#科研项目",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research listing page showing featured projects across subfolders with categories and dates."
+  },
+  {
+    "objectID": "research/market_power/index.html",
+    "href": "research/market_power/index.html",
+    "title": "Market Concentration, Market Power, and Firm Growth of Construction Companies",
+    "section": "",
+    "text": "Study of 37 Chinese construction firms (2009–2018); examines market concentration (CR) and market power (MP) effects on turnover and profit using Cobb–Douglas and OLS. Finds concentration boosts turnover and profit; market power boosts profit but reduces turnover; advantages for non-SOEs with overseas income or civil engineering focus."
+  },
+  {
+    "objectID": "research/policy_index/index.html",
+    "href": "research/policy_index/index.html",
+    "title": "Housing Policy and Housing Return: Evidence from Chinese Housing Market",
+    "section": "",
+    "text": "NLP-based policy index from 2008–2024 documents; identifies loosening/tightening periods. Loosening measures linked to higher long-term housing returns; effects transmitted mainly via supply and demand channels; asymmetric Granger causality shows delayed policy impact on returns."
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
     "title": "Teaching",
-    "section": "科研项目",
-    "text": "RECO"
+    "section": "",
+    "text": "Teaching assistant: RECO3038 Real Estate Investment and Finance (Undergraduate); RECO6069 Real Estate Investment (Postgraduate)."
+  },
+  {
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Links for monetary policy (PBoC, National Interbank Funding Center, China Bond), Stata (Lianxianghui), Python (Liaoxuefeng)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About page for Yumou Wang."
+  },
+  {
+    "objectID": "CV.pdf",
+    "href": "CV.pdf",
+    "title": "CV",
+    "section": "",
+    "text": "Curriculum Vitae PDF."
   }
 ]
