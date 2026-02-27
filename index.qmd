@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Yumou Wang"
 image: images/home_page.jpg
 about:
   id: hero-heading

@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="This is about my research.">
 
-<title>Yumou Wang – Yumou Wang (王予谋)</title>
+<title>Research – Yumou Wang (王予谋)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +24,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./static/img/favicon.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7bd51a60a51e5c23b6c3f6a95c3214be.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ce24ca23199c64d9d96760dc55d96365.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../static/img/favicon.jpg" rel="icon" type="image/jpeg">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7bd51a60a51e5c23b6c3f6a95c3214be.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-ce24ca23199c64d9d96760dc55d96365.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,18 +71,82 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-projects .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-date','listing-authors','listing-journals','listing-status','listing-feature','listing-lightbox','listing-path','listing-outputHref','listing-date-modified','listing-author','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-categories','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-title","listing-date","listing-authors","listing-journals","listing-status","listing-feature","listing-lightbox","listing-path","listing-outputHref","listing-date-modified","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-categories","listing-image"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<style>
+
+      .quarto-title-block .quarto-title-banner {
+        background: #fff;
+      }
+</style>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Yumou Wang (王予谋)</span>
     </a>
   </div>
@@ -89,23 +157,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research/index.html"> 
+    <a class="nav-link active" href="../research/index.html" aria-current="page"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Teaching.html"> 
+    <a class="nav-link" href="../Teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Resources.html"> 
+    <a class="nav-link" href="../Resources.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./CV.pdf"> 
+    <a class="nav-link" href="../CV.pdf"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -116,57 +184,214 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+            <div class="quarto-title-banner page-columns page-full">
+            <div class="quarto-title column-page-left">
+                <h1 class="title">Research</h1>
+
+                
+                                <div>
+                    <div class="description">
+                        <p><i>This is about my research.</i></p>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    
+        </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="SG91c2luZyUyMFBvbGljeQ==">Housing Policy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGV4dCUyME1pbmluZw==">Text Mining <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="images/home_page.jpg" class="about-image
-  round " style="height: 12em; width: 12em;">
- <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Yumou Wang</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header><main class="content" id="quarto-document-content">
-<p>I am a final-year PhD Candidate in the Department of <a href="https://www.arch.hku.hk/programmes_/rec/">REC</a> at HKU. <br> My research interests include real estate, government behavior, and machine learning. <br> I enjoy <a href="https://store.steampowered.com/agecheck/app/2358720/">playing video games</a>, <a href="https://movie.douban.com/subject/1292434/">watching movies</a>, <a href="https://www.bilibili.com/video/BV1QR4y1c7v7/">listening to music</a>, <a href="https://book.douban.com/subject/4913064/">reading novels</a>, and hiking.<br></p>
-<p>I am on the job market this year and actively seeking job opportunities. <br> I would greatly appreciate it if you could let me know of any roles that might be a good fit.</p>
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="mailto:yumwang@connect.hku.hk" class="about-link" rel="" target="">
-    <i class="bi bi-mailbox"></i>
-     <span class="about-link-text">Mail</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=AcIMYDMAAAAJ" class="about-link" rel="" target="">
-    <i class="bi bi-book"></i>
-     <span class="about-link-text">Google Scholar</span>
-  </a>
-  <a href="https://www.linkedin.com/in/yumou-wang-7b1975260/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://orcid.org/my-orcid?orcid=0000-0002-8230-2736" class="about-link" rel="" target="">
-    <i class="bi bi-fingerprint"></i>
-     <span class="about-link-text">ORCID</span>
-  </a>
-  <a href="https://space.bilibili.com/336230847" class="about-link" rel="" target="">
-    <i class="bi bi-brands zhihu"></i>
-     <span class="about-link-text">Bilibili</span>
-  </a>
-  <a href="/CV.pdf" class="about-link" rel="" target="">
-    <i class="bi bi-📝"></i>
-     <span class="about-link-text">CV</span>
-  </a>
+
+
+<div id="listing-projects" class="quarto-listing quarto-listing-container-custom">
+<style>
+/* 添加响应式图片样式 */
+.research-entry .thumbnail img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 left; /* 居中显示 */
+    object-fit: contain; /* 保持比例填充容器 */
+}
+
+/* 确保图片容器也有响应式 */
+.research-entry .thumbnail {
+    max-width: 100%;
+    margin-top: 15px;
+}
+
+/* 在小屏幕上调整布局 */
+@media (max-width: 768px) {
+    .research-entry {
+        flex-direction: column !important;
+    }
+    .research-entry .thumbnail {
+        width: 100%;
+        margin-top: 15px;
+    }
+}
+</style>
+
+<div class="list research">
+    
+    
+    
+    
+    
+        
+            
+                <h2 class="anchored">R&amp;R</h2>
+            
+            
+                <div class="research-entry" data-index="0" data-categories="SG91c2luZyUyMFBvbGljeSUyQ1RleHQlMjBNaW5pbmc=" data-listing-file-modified-sort="1753165526789" data-listing-reading-time-sort="1" data-listing-word-count-sort="161">
+                    <div class="body">
+                        <p class="title listing-title">
+                            
+                                <a href="../research/policy_index/index.html">Housing Policy and Housing Return: Evidence from Chinese Housing Market</a>
+                            
+                        <!-- </p> -->
+
+                            <!-- 期刊信息放在标题同一行，斜体显示 -->
+                            
+                                <span class="journal-info">
+                                    , <!-- 添加逗号分隔符 -->
+                                    
+                                        
+                                            <i>Real Estate Economics</i>
+                                        
+                                        
+                                    
+                                </span>
+                            
+                        </p>
+
+                        <p class="subtitle listing-subtitle">
+                            
+                        </p>
+                        
+                            
+                            
+                            <p class="research-coauthors">
+                                with
+                                
+                                    
+                                        <a href="https://scholar.google.com/citations?user=KFCPPikAAAAJ&amp;hl=en">Siu Kei Wong</a>
+                                    
+                                    
+                                
+                            </p>
+                        
+                        <!-- 
+                            <div class="item-categories listing-categories">
+                                
+                                <div class="item-category listing-category" onclick="window.quartoListingCategory('Housing Policy'); return false;">
+                                    Housing Policy
+                                </div>
+                                
+                                <div class="item-category listing-category" onclick="window.quartoListingCategory('Text Mining'); return false;">
+                                    Text Mining
+                                </div>
+                                
+                            </div>
+                         -->
+                        <ul class="research-links">
+                            
+                        </ul>
+                    </div>
+                    
+                        <div class="thumbnail">
+                            <img src="../research/policy_index/img/policy_index.png" alt="Housing Policy and Housing Return: Evidence from Chinese Housing Market" title="Housing Policy and Housing Return: Evidence from Chinese Housing Market">
+                        </div>
+                    
+                </div>
+            
+                    
+    
+                    
+    
+                    
+    
+        
+            
+                <h2 class="anchored">Publication</h2>
+            
+            
+                <div class="research-entry" data-index="1" data-listing-date-sort="1631721600000" data-listing-file-modified-sort="1753165526786" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="254">
+                    <div class="body">
+                        <p class="title listing-title">
+                            
+                                <a href="../research/market_power/index.html">Market Concentration, Market Power, and Firm Growth of Construction Companies</a>
+                            
+                        <!-- </p> -->
+
+                            <!-- 期刊信息放在标题同一行，斜体显示 -->
+                            
+                                <span class="journal-info">
+                                    , <!-- 添加逗号分隔符 -->
+                                    
+                                        
+                                            <a href="https://onlinelibrary.wiley.com/doi/full/10.1155/2021/9990846" target="_blank" rel="noopener noreferrer">
+                                                <i>Advances in Civil Engineering</i>
+                                            </a>
+                                        
+                                        
+                                    
+                                </span>
+                            
+                        </p>
+
+                        <p class="subtitle listing-subtitle">
+                            
+                        </p>
+                        
+                            
+                            
+                            <p class="research-coauthors">
+                                with
+                                
+                                    
+                                        <a href="https://faculty.cqu.edu.cn/ShilongLi/zh_CN/index.htm">Shilong Li</a>
+                                    
+                                    
+                                
+                            </p>
+                        
+                        <!--  -->
+                        <ul class="research-links">
+                            
+                        </ul>
+                    </div>
+                    
+                </div>
+            
+                    
+    
 </div>
+<div class="listing-no-matching d-none">No matching items</div>
 </div>
- <!-- /main -->
+<!-- {{< ai blank-just-to-add-ai-dependency-to-this-page >}} -->
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
