@@ -8,7 +8,7 @@ listing:
     contents: "/*/index.qmd"
     sort:
       - "feature"
-      - "date desc"
+      - "date-uploaded desc"
     template: ../static/html/research/listing.ejs
     categories: True  
 title-block-banner: "#fff"
