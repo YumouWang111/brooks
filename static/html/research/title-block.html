@@ -41,7 +41,23 @@
         </div>
         
 
+        <style>
+        .quarto-title-meta > div:has(.date),
+        .quarto-title-meta > div:has(.date-modified) {
+            display: none;
+        }
+        </style>
         $title-metadata.html()$
+        $if(date-uploaded)$
+        <div class="quarto-title-meta">
+            <div>
+                <div class="quarto-title-meta-heading">Uploaded</div>
+                <div class="quarto-title-meta-contents">
+                    <p class="date-uploaded">$date-uploaded$</p>
+                </div>
+            </div>
+        </div>
+        $endif$
 
         $if(pub-info.extra)$
 
