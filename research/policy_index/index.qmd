@@ -1,8 +1,7 @@
 ---
-title: "Housing Policies and Housing Returns: Evidence from Chinese Housing Market"
+title: "Housing Policy and Housing Return: Evidence from Chinese Housing Market"
 # date: 2025-07
-date-uploaded: 2025-07
-date-modified: 2026-03
+date-modified: 2025-07
 authors:
   - name: Siu Kei Wong
     orcid: 0000-0003-2590-2556
@@ -44,7 +43,7 @@ lightbox: True
 
 ## Abstract
 
-This paper examines the relationship between housing policy interventions and market returns in China with a novel policy index. Using natural language processing techniques, we construct a sentence-level policy index based on government policy documents from 2008 to 2024. The policy index identifies three loosening periods and two tightening periods in Chinese housing market. We find that the policy index is associated with higher long-term housing returns. The mechanism analysis shows that policy effects on housing returns are transmitted primarily through supply channels (42%) and demand channels (19%). Furthermore, our findings reveal that loosening measures exert a stronger impact on housing returns than tightening measures. Lead-lag  tests uncover an asymmetric temporal relationship: while housing returns lead policy changes across all time horizons, policy interventions only lead long-term housing returns, suggesting a delayed impact of policy implementation on market outcomes. 
+This paper examines the relationship between housing policy interventions and market returns in China with a novel policy index. Using natural language processing techniques, we construct a sentence-level policy index based on government policy documents from 2008 to 2024. The policy index identifies three loosening periods and two tightening periods in Chinese housing market. We find that the policy index is associated with higher long-term housing returns. The mechanism analysis shows that policy effects on housing returns are transmitted primarily through supply channels (43%) and demand channels (15%). Notably, our findings reveal that only loosening measures are significantly associated with housing returns. Granger causality tests uncover an asymmetric temporal relationship: while housing returns Granger-cause policy changes across all time horizons, policy interventions demonstrate causality only for long-term housing returns, suggesting a delayed impact of policy implementation on market outcomes. 
 
 ## Important table & figure
 
