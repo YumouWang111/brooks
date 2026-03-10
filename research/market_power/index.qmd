@@ -1,7 +1,6 @@
 ---
 title: "Market Concentration, Market Power, and Firm Growth of Construction Companies"
 date: 2021-09-16
-date-uploaded: 2021-09
 # date-modified: 2021-09-16
 authors:
   - name: Shilong Li

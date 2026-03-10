@@ -1,8 +1,7 @@
 ---
 title: "Housing Policies and Housing Returns: Evidence from Chinese Housing Market"
 # date: 2025-07
-date-uploaded: 2025-07
-date-modified: 2026-03
+date-modified: 2025-07
 authors:
   - name: Siu Kei Wong
     orcid: 0000-0003-2590-2556
