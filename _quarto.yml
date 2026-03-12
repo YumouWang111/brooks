@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google7a50d95f8e53110b.html
   
 website:
   page-navigation: true
