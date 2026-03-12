@@ -3,6 +3,8 @@ project:
   output-dir: docs
   resources:
     - google7a50d95f8e53110b.html
+    - robots.txt
+    - sitemap.xml
   
 website:
   page-navigation: true
