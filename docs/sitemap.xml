@@ -1,8 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://yumouwang111.github.io/brooks/index.html</loc>
+    <lastmod>2026-03-12T08:22:58.549Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yumouwang111.github.io/brooks/Teaching.html</loc>
+    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yumouwang111.github.io/brooks/Resources.html</loc>
+    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yumouwang111.github.io/brooks/research/market_power/index.html</loc>
+    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yumouwang111.github.io/brooks/readme.html</loc>
+    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yumouwang111.github.io/brooks/about.html</loc>
+    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yumouwang111.github.io/brooks/research/index.html</loc>
+    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yumouwang111.github.io/brooks/research/policy_index/index.html</loc>
+    <lastmod>2026-03-10T08:29:08.776Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yumouwang111.github.io/brooks/software/index.html</loc>
+    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://brooks.github.io/index.html</loc>
-    <lastmod>2026-03-12T08:40:47.203Z</lastmod>
+    <lastmod>2026-03-18T13:16:46.622Z</lastmod>
   </url>
   <url>
     <loc>https://brooks.github.io/Teaching.html</loc>
