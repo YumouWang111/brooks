@@ -1,6 +1,6 @@
 ---
-title: "Housing Policies and Housing Returns: Evidence from Chinese Housing Market"
-# date: 2025-07
+title: "Housing Policies and Market Returns in China: Evidence from a Novel Policy Index"
+date: 2026-07
 date-modified: 2025-07
 authors:
   - name: Siu Kei Wong
@@ -24,7 +24,8 @@ categories:
   - Housing Policy
   - Text Mining
 image: img/policy_index.png
-status: R&R
+status: real_estate # working_paper, real_estate, R&R, others
+# D:\Brooks\brooks\static\html\research\listing.ejs:31-44
 feature: True
 # pub-info:
 #   links:
@@ -43,13 +44,13 @@ lightbox: True
 
 ## Abstract
 
-This paper examines the relationship between housing policy interventions and market returns in China with a novel policy index. Using natural language processing techniques, we construct a sentence-level policy index based on government policy documents from 2008 to 2024. The policy index identifies three loosening periods and two tightening periods in Chinese housing market. We find that the policy index is associated with higher long-term housing returns. The mechanism analysis shows that policy effects on housing returns are transmitted primarily through supply channels (42%) and demand channels (19%). Furthermore, our findings reveal that loosening measures exert a stronger impact on housing returns than tightening measures. Lead-lag  tests uncover an asymmetric temporal relationship: while housing returns lead policy changes across all time horizons, policy interventions only lead long-term housing returns, suggesting a delayed impact of policy implementation on market outcomes. 
+This paper examines the relationship between housing policy interventions and market returns in China with a novel policy index. Using natural language processing techniques, we construct a sentence-level policy index based on government policy documents from 2008 to 2024. The policy index captures not only major periods of loosening and tightening but also finer shifts in government stance. We find that policies with a stronger loosening orientation – reflected by higher index values – are associated with higher long-term housing returns, while no significant effects are observed in the short run, suggesting a delayed impact of policy measures on market outcomes. Mechanism analysis shows that policy effects on housing returns are primarily transmitted through supply channel (42%) rather than demand channel (19%), consistent with land supply being fully controlled by the government. Furthermore, lead-lag analysis uncovers that housing returns lead policy changes across all time horizons, indicating that policies are generally countercyclical. 
 
 ## Important table & figure
 
 ::: {layout-ncol="2"}
 
-![FIGURE 1 The policy index spanning from January 2000 to March 2024](img/policy_index.png)
+![FIGURE 1 The policy index](img/policy_index.png)
 
 :::
 
