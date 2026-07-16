@@ -2,6 +2,7 @@
 title: "Housing Policies and Market Returns in China: Evidence from a Novel Policy Index"
 date: 2026-07
 date-modified: 2025-07
+date-format: "MMMM YYYY"
 authors:
   - name: Siu Kei Wong
     orcid: 0000-0003-2590-2556
@@ -40,6 +41,8 @@ feature: True
 #   class: warning
 #   icon: fa-solid fa-pencil
 lightbox: True
+resources:
+  - att/policy_index.xlsx
 ---
 
 ## Abstract
@@ -53,5 +56,11 @@ This paper examines the relationship between housing policy interventions and ma
 ![FIGURE 1 The policy index](img/policy_index.png)
 
 :::
+
+## Attachment
+
+The monthly policy index constructed in this paper is available for download:
+
+<a href="att/policy_index.xlsx" class="btn btn-outline-dark btn-sm" download="policy_index.xlsx"><i class="bi bi-file-earmark-excel"></i> policy_index.xlsx</a>
 
 <!-- {{< ai blank-just-to-add-ai-dependency-to-this-page >}} -->
