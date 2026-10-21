@@ -1,0 +1,60 @@
+---
+title: "Monetary Policy and the Cross-Section of Stock Returns in China"
+# date: 2026-10
+date-modified: 2026-09
+date-format: "MMMM YYYY"
+authors:
+  - name: Yumou Wang
+    orcid: https://orcid.org/my-orcid?orcid=0000-0002-8230-2736
+    url: https://scholar.google.com/citations?user=AcIMYDMAAAAJ
+    affiliation: 
+      name: HKU
+      url: https://www.arch.hku.hk/programmes_/rec/
+    email: yumwang@connect.hku.hk
+journals:
+  - name: 
+    url: 
+categories:
+  - Asset pricing
+  - Text Mining
+  - LLM
+image: img/Univariate portfolio.png
+status: working_paper # working_paper, real_estate, R&R, others
+# D:\Brooks\brooks\static\html\research\listing.ejs:31-44
+feature: True
+# pub-info:
+#   links:
+#     - name: Latest WP
+#       url: https://arxiv.org/abs/2403.19563
+#       icon: ai ai-arxiv
+#     - name: Package (unitdid)
+#       url: https://github.com/kazuyanagimoto/unitdid
+#       icon: fa-brands fa-github
+# pub-status: 
+#   status: Writing
+#   class: warning
+#   icon: fa-solid fa-pencil
+# lightbox: True
+# resources:
+#   - att/policy_index.xlsx
+---
+
+## Abstract
+
+We examine monetary policy communication and the cross-section of Chinese stock returns. Using a large language model, we construct a policy-tone index from the People’s Bank of China’s Monetary Policy Reports and estimate stock exposures. The lowest policy-beta decile outperforms the highest by 5.28%–7.44% annually across weighting schemes. This premium survives risk adjustment and characteristic controls, persists for nine months, and strengthens after 2016. Higher policy betas predict smaller cash buffers, higher debt-to-market-equity ratios, greater equity issuance, and lower market betas. These findings identify monetary policy communication exposure as a distinct predictor of stock returns and firms’ subsequent financial characteristics.
+
+## Important table & figure
+
+::: {layout-ncol="2"}
+
+![FIGURE 1 The policy index](img/Univariate portfolio.png)
+
+:::
+
+<!-- ## Attachment
+
+The monthly policy index constructed in this paper is available for download:
+
+<a href="att/policy_index.xlsx" class="btn btn-outline-dark btn-sm" download="policy_index.xlsx"><i class="bi bi-file-earmark-excel"></i> policy_index.xlsx</a> -->
+
+<!-- {{< ai blank-just-to-add-ai-dependency-to-this-page >}} -->

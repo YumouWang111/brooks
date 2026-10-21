@@ -32,7 +32,7 @@
     <% items_re = items.filter(item => item.status == "real_estate") %>
     <% items_wp = items.filter(item => item.status == "working_paper") %>
     <% items_ot = items.filter(item => item.status == "others") %>
-    <% for (const items of [items_rr, items_re, items_wp, items_ot]) { %>
+    <% for (const items of [items_wp, items_rr, items_re, items_ot]) { %>
         <% if (items.length > 0) { %>
             <% if (items[0].status == "R&R") { %>
                 <h2>R&R</h2>
