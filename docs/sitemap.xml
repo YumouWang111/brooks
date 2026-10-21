@@ -1,46 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yumouwang111.github.io/brooks/index.html</loc>
-    <lastmod>2026-03-12T08:22:58.549Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yumouwang111.github.io/brooks/Teaching.html</loc>
-    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yumouwang111.github.io/brooks/Resources.html</loc>
-    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yumouwang111.github.io/brooks/research/market_power/index.html</loc>
-    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yumouwang111.github.io/brooks/readme.html</loc>
-    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yumouwang111.github.io/brooks/about.html</loc>
-    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yumouwang111.github.io/brooks/research/index.html</loc>
-    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yumouwang111.github.io/brooks/research/policy_index/index.html</loc>
-    <lastmod>2026-03-10T08:29:08.776Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yumouwang111.github.io/brooks/software/index.html</loc>
-    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brooks.github.io/index.html</loc>
-    <lastmod>2026-10-21T15:30:28.455Z</lastmod>
-  </url>
-  <url>
     <loc>https://brooks.github.io/Teaching.html</loc>
     <lastmod>2026-03-05T01:29:59.000Z</lastmod>
   </url>
@@ -53,16 +13,16 @@
     <lastmod>2026-07-16T02:28:03.951Z</lastmod>
   </url>
   <url>
-    <loc>https://brooks.github.io/research/CSR/index.html</loc>
-    <lastmod>2026-10-21T15:23:46.039Z</lastmod>
+    <loc>https://brooks.github.io/readme.html</loc>
+    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
   </url>
   <url>
     <loc>https://brooks.github.io/about.html</loc>
     <lastmod>2026-03-05T01:29:59.000Z</lastmod>
   </url>
   <url>
-    <loc>https://brooks.github.io/readme.html</loc>
-    <lastmod>2026-03-05T01:29:59.000Z</lastmod>
+    <loc>https://brooks.github.io/index.html</loc>
+    <lastmod>2026-07-14T03:55:25.810Z</lastmod>
   </url>
   <url>
     <loc>https://brooks.github.io/research/index.html</loc>
@@ -70,7 +30,7 @@
   </url>
   <url>
     <loc>https://brooks.github.io/research/policy_index/index.html</loc>
-    <lastmod>2026-10-21T15:12:03.355Z</lastmod>
+    <lastmod>2026-07-16T02:36:36.308Z</lastmod>
   </url>
   <url>
     <loc>https://brooks.github.io/software/index.html</loc>
