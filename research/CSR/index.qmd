@@ -11,6 +11,13 @@ authors:
       name: HKU
       url: https://www.arch.hku.hk/programmes_/rec/
     email: yumwang@connect.hku.hk
+  - name: Yidi Yang
+    orcid: 
+    url: 
+    affiliation: 
+      name: HKU
+      url: https://www.arch.hku.hk/programmes_/rec/
+    email: yidiyang231@connect.hku.hk
 journals:
   - name: 
     url: 
@@ -41,13 +48,13 @@ feature: True
 
 ## Abstract
 
-We examine monetary policy communication and the cross-section of Chinese stock returns. Using a large language model, we construct a policy-tone index from the People’s Bank of China’s Monetary Policy Reports and estimate stock exposures. The lowest policy-beta decile outperforms the highest by 5.28%–7.44% annually across weighting schemes. This premium survives risk adjustment and characteristic controls, persists for nine months, and strengthens after 2016. Higher policy betas predict smaller cash buffers, higher debt-to-market-equity ratios, greater equity issuance, and lower market betas. These findings identify monetary policy communication exposure as a distinct predictor of stock returns and firms’ subsequent financial characteristics.
+We examine monetary policy reports and the cross-section of Chinese stock returns. Using a large language model, we construct a monetary policy index from the People’s Bank of China’s Monetary Policy Reports and estimate stock exposures.
 
 ## Important table & figure
 
 ::: {layout-ncol="2"}
 
-![FIGURE 1 The policy index](img/Univariate portfolio.png)
+![FIGURE 1 Univariate portfolio](img/Univariate portfolio.png)
 
 :::
 
